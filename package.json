@@ -1,0 +1,20 @@
+{
+    "name":"formationnode",
+    "version":"1.0.0",
+    "description":"",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"  
+    },
+    "repository": {
+        "type":"git",
+        "url":"git+https://github.com/AzizBenIsmail/PFE_StudySphere-_BackendExpress.git"
+    },
+    "author": "",
+    "license":"ISC",
+    "bugs":{
+        "url":"https://github.com/AzizBenIsmail/PFE_StudySphere-_BackendExpress/issues"
+    },
+    "homepage": "https://github.com/AzizBenIsmail/PFE_StudySphere-_FrontOfficeReact/blob/main/README.md"  
+
+}
